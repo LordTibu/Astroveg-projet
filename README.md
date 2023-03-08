@@ -8,7 +8,7 @@ des planètes et de son propulseur pour changer sa trajectoire et
 arriver à l’objectif avant que l’oxygène de sa combinaison soit fini.
 
 ## Rendu final
-![gyro](https://github.com/LordTibu/Gyromite-projet/blob/main/Images/gyro.png?raw=true)
+![astro](https://github.com/LordTibu/Astroveg-projet/blob/main/data/Assets/game.gif?raw=true)
 
 ## Authors 
 Nicolas Patino
